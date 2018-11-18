@@ -4,6 +4,8 @@
 #
 version: 2
 language: java
+codecov:
+  token: e722d221-ba90-4238-b1bc-024857963b5c
 jobs:
   build:
     docker:
