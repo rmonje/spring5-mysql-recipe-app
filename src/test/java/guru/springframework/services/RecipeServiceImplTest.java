@@ -21,7 +21,7 @@ import static org.junit.Assert.assertNotNull;
 import static org.mockito.Mockito.*;
 
 /**
- * Created by jt on 6/17/17.
+ * Created by rbenitez on November 2018.
  */
 public class RecipeServiceImplTest {
 

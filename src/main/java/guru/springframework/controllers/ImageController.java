@@ -18,7 +18,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * Created by jt on 7/3/17.
+ * Created by rbenitez on November 2018.
  */
 @Controller
 public class ImageController {

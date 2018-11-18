@@ -3,7 +3,7 @@ package guru.springframework.services;
 import guru.springframework.commands.IngredientCommand;
 
 /**
- * Created by jt on 6/27/17.
+ * Created by rbenitez on November 2018.
  */
 public interface IngredientService {
 
